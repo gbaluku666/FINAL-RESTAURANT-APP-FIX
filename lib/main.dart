@@ -24,7 +24,7 @@ part 'staff2.dart';
 // (it ends in /exec). See README.md. While it is empty the app runs in DEMO
 // mode (customers can browse; nothing is saved and staff cannot sign in).
 // ---------------------------------------------------------------------------
-const String kApiUrl = 'https://script.google.com/macros/s/AKfycbwA38fpQQAExaL9V25r3RmISuSrEfvY9GBKSjFU54LUMHWwug__hPcLxUwuvpBcZqEs/exec';
+const String kApiUrl = 'https://script.google.com/macros/s/AKfycbx6RiCJEfIpQmSqxorDTR0k2keu51Zjn5Z4GGkDmzP7ivMpFYZEn7eIkggJ9HdcMcF2CQ/exec';
 
 const String kSessionExpired = 'SESSION_EXPIRED';
 
